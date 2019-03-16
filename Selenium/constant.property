@@ -1,0 +1,4 @@
+URL=http://seleniumhq.org
+implicitwait=30
+excelpath=D:\Share Folder\Automation Testing\\abc.xlsx
+e_download=Download_linktext
